@@ -1,0 +1,8 @@
+Package: <package>
+Version: 1.0-0
+Section: base
+Priority: optional
+Architecture: all
+Depends: <depends>
+Maintainer: <email>
+Description: <description>
